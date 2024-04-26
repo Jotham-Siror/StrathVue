@@ -1,6 +1,6 @@
 #  Strathvue
 
-This template should help get you started developing with Vue 3 in Vite.
+An sample website I made while learning the basics of Vue Js. The website was to emulate a university website with just a basic functionality
 
 ## Recommended IDE Setup
 
